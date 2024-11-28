@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+ body {
+    width: 1920px;
+    margin: auto;
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .header {
+    height: 35px;
+    margin: 35px auto;
+  }
+  
+ 
+  .logo {
+    float: left;
+    width: 300px;
+    height: 100px;
+    background-color: #ff0000; /* Red */
+  }
+  
+  .navi {
+    float: left;
+    margin-left: 300px;
+  }
+  
+  .navi ul li {
+    float: left;
+  }
+  
+  .navi ul li a {
+    display: block;
+    height: 50px;
+    padding: 0 70px;
+    line-height: 200px;
+    font-size: 22px;
+    color: #ffffff;
+  }
+  
+  .j {
+    height: 800px;
+    background: url("zi.png");
+  }
+  
+  .nav2 {
+    float: left;
+    margin-left: 800px;
+  }
+  
+  .inner {
+    float: left;
+    height: 50px;
+    width: 1200px;
+    font-size: 40px;
+    margin: 300px 720px;
+    color: #8b0000; /* Brown */
+  }
+  
+  .inner2 {
+    float: left;
+    height: 300px;
+    margin: auto 200px;
+    font-size: 25px;
+  }
+  
+  .inner3 {
+    height: 200px;
+    margin: auto 150px;
+    font-size: 25px;
+  }
+  
+  .lj {
+    width: 260px;
+    height: 400px;
+    margin: 900px 800px;
+  }
+  
+  .tw {
+    width: 1920px;
+    height: 400px;
+    background: url("5.png");
+  }
+  
+  .LA {
+    float: left;
+    height: 20px;
+    margin: 200px 300px;
+  }
+  
+  .discuss {
+    margin: 50px 50px;
+  }
+  
+  .more {
+    height: 100px;
+    margin: auto 800px;
+  }
+  
+  .buy {
+    margin: 400px 850px;
+  }
+  
+  .bone {
+    float: left;
+    margin: -300px 30px;
+    height: 550px;
+    width: 1920px;
+    background: url("5.png");
+  }
+  
+  .p1 {
+    float: left;
+    width: 383px;
+    height: 200px;
+    margin: 100px 550px;
+  }
+  
+  .p2 {
+    float: left;
+    width: 383px;
+    height: 200px;
+    margin: -160px 550px;
+  }
+  
+  .p3 {
+    float: left;
+    width: 383px;
+    height: 200px;
+    margin: -30px 550px;
+  }
+  
+  .recommend {
+    margin: 700px 900px;
+  }
+  
+  .end {
+    margin: -600px 30px;
+  }
